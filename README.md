@@ -16,8 +16,8 @@ la nota.
 
 | Nombre completo | Código |
 |---|---|
-| | |
-| | |
+|Kevin Santiago Palomino Murcia |202477200 |
+|Juan Manuel Polania Navarro |202477452 |
 | | |
 | | |
 
